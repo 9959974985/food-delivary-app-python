@@ -32,7 +32,6 @@ while c!=0:
         print("Enter Full Name:")
         F=input()
         print("Enter Phone Number:")
-        N=input()
         print("Enter Email:")
         E=input()
         print("Enter Address:")
